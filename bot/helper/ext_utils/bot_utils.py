@@ -332,7 +332,6 @@ Sent : {sent} | Recv : {recv}
 CPU : {cpu}% | RAM : {mem}%
 DL : {num_active} | UP : {num_upload} | SPLIT : {num_split}
 ZIP : {num_archi} | UNZIP : {num_extract} | TOTAL : {tasks}
-Limits : T/D : {TORRENT_DIRECT_LIMIT}GB | Z/U : {ZIP_UNZIP_LIMIT}GB
 Made by  HollywoodNights
 """
 
